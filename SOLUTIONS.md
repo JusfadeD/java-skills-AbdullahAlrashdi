@@ -42,3 +42,57 @@ One Thing I’d Like to Improve:
 
 
 
+
+
+---
+
+
+
+Task 3: Strings and Arrays
+
+
+
+What I Learned:
+
+\- How to reverse strings using `StringBuilder` and loop through arrays.
+
+\- How to handle simple conditions for grading and identifying failing students.
+
+\- How to split strings and replace words in a sentence using basic Java string methods.
+
+
+
+Challenges I Faced:
+
+\- Honestly, not much. These were basic problems and I already understood the logic.
+
+\- I just had to remind myself to handle empty strings or null inputs properly.
+
+
+
+How I Tested My Code:
+
+\- I used sample arrays like `{"Alice", "Bob", "Charlie"}` and printed outputs directly using `System.out.println()`.
+
+\- Changed values multiple times to test fail conditions and replacement accuracy.
+
+\- Didn’t use any formatting — kept it raw and simple to focus on correctness.
+
+
+
+One Thing I’d Like to Improve:
+
+\- I want to get better at writing cleaner code while keeping it readable — even when it’s simple.
+
+\- Maybe learn how to write basic unit tests to avoid manually printing everything.
+
+
+
+
+
+
+
+
+
+
+
