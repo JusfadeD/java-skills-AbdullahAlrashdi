@@ -89,7 +89,7 @@ One Thing I’d Like to Improve:
 
 ---
 
-✅ Task 4: OOP
+Task 4: OOP
 
 hat I learned:
 - How to extend one class from another.
@@ -113,6 +113,25 @@ What I’d fix:
 
 
 
+Task 5 - Problem Solving with Loops and Conditions
+
+I made a ShoppingCart that calculates total price, finds most expensive item, and counts items over a certain price. I used simple loops and switch statements. I also made a PatternMaker that prints number triangles and multiplication tables. I kept everything basic so it just works.
+
+What I learned:
+- How to use loops in real cases
+- Using switch for logic control
+- How to format output in simple ways
+
+What was hard:
+- Remembering how nested loops work for the triangle
+- Printing cleanly without too much spacing
+
+How I tested:
+- I used the example cart values and checked output
+- I ran the main method for PatternMaker and checked output
+
+What I want to improve:
+- Write shorter cleaner code
 
 
 
