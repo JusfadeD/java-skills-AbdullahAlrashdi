@@ -87,6 +87,28 @@ One Thing I’d Like to Improve:
 \- Maybe learn how to write basic unit tests to avoid manually printing everything.
 
 
+---
+
+✅ Task 4: OOP
+
+hat I learned:
+- How to extend one class from another.
+- How `protected` lets the child class see stuff.
+- How to override a method and still call the parent one with `super`.
+- The difference between static and non-static variables.
+
+What was annoying:
+- Remembering `super()` and making sure constructors lined up.
+- Forgetting to override `displayInfo()` at first.
+
+How I tested it:
+- Made some books and a textbook.
+- Borrowed them, returned them, printed stuff.
+- Tried the visitor counter with a few names to see if the static count works.
+
+What I’d fix:
+- I’d write cleaner classes if the system was bigger.
+- Also maybe learn abstract classes or interfaces later.
 
 
 
